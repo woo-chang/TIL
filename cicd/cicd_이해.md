@@ -4,7 +4,7 @@
 
 1. docker를 통한 빌드
 
-   ```docker
+   ```dockerfile
    FROM gradle:7.6-jdk17
 
    ARG APP_TAG
